@@ -13,7 +13,7 @@ Installation guide.
 
 - Clone this repository to your local directory.
 - Create a database.
-- Rename .env.example to .env
+- Rename **.env.example** to **.env**
 - Open .env file in your editor and enter your database credentials.
 - Open your terminal and cd to the root directory of the cloned repo
 - Run this comand **composer install** and **php artisan key:generate**.
