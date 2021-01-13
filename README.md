@@ -16,9 +16,9 @@ Installation guide.
 - Rename **.env.example** to **.env**
 - Open .env file in your editor and enter your database credentials.
 - Open your terminal and cd to the root directory of the cloned repo
-- Run this comand **composer install** and **php artisan key:generate**.
-- Then run **php artisan migrate** and **php artisan db:seed**.
-- Run the app by runing **php artisan serve**.
+- Run this comand **composer install** and **php artisan key:generate**
+- Then run **php artisan migrate** and **php artisan db:seed**
+- Start the app by runing **php artisan serve**
 
 
 ## License
